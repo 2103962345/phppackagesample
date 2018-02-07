@@ -1,5 +1,5 @@
 {
-    "name": "Basce/phppackagesample",
+    "name": "basce/phppackagesample",
     "type": "library",
     "description": "simple package",
     "keywords": [
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Basce\\phppackagesample\\": "src"
+            "basce\\phppackagesample\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Basce\\phppackagesample\\": "tests"
+            "basce\\phppackagesample\\": "tests"
         }
     },
     "scripts": {
