@@ -1,4 +1,4 @@
-# packagesample
+# phppackagesample
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -7,7 +7,6 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```Basce``` ```Basce``` ```https://github.com/Basce``` ```basce.yong@gmail.com``` ```Basce``` ```packagesample``` ```simple package``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -60,24 +59,24 @@ If you discover any security related issues, please email basce.yong@gmail.com i
 
 ## Credits
 
-- [Basce][link-author]
+- [Yong Chee Wei][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/Basce/packagesample.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Basce/phppackagesample.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/Basce/packagesample/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Basce/packagesample.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/Basce/packagesample.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/Basce/packagesample.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Basce/phppackagesample/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Basce/phppackagesample.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Basce/phppackagesample.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/Basce/phppackagesample.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/Basce/packagesample
-[link-travis]: https://travis-ci.org/Basce/packagesample
-[link-scrutinizer]: https://scrutinizer-ci.com/g/Basce/packagesample/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/Basce/packagesample
-[link-downloads]: https://packagist.org/packages/Basce/packagesample
+[link-packagist]: https://packagist.org/packages/Basce/phppackagesample
+[link-travis]: https://travis-ci.org/Basce/phppackagesample
+[link-scrutinizer]: https://scrutinizer-ci.com/g/Basce/phppackagesample/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Basce/phppackagesample
+[link-downloads]: https://packagist.org/packages/Basce/phppackagesample
 [link-author]: https://github.com/Basce
 [link-contributors]: ../../contributors

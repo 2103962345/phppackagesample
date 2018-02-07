@@ -1,7 +1,7 @@
 {
-    "name": "basce/phppackagesample",
+    "name": "Basce/phppackagesample",
     "type": "library",
-    "description": "simple package",
+    "description": "a simple package",
     "keywords": [
         "Basce",
         "phppackagesample"
@@ -10,7 +10,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Basce",
+            "name": "Yong Chee Wei",
             "email": "basce.yong@gmail.com",
             "homepage": "https://github.com/Basce",
             "role": "Developer"
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "basce\\phppackagesample\\": "src"
+            "Basce\\phppackagesample\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "basce\\phppackagesample\\": "tests"
+            "Basce\\phppackagesample\\": "tests"
         }
     },
     "scripts": {
