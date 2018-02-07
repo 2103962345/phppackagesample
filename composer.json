@@ -1,18 +1,18 @@
 {
-    "name": "cheewei/packagesample",
+    "name": "Basce/packagesample",
     "type": "library",
-    "description": "package sample",
+    "description": "simple package",
     "keywords": [
-        "cheewei",
+        "Basce",
         "packagesample"
     ],
-    "homepage": "https://github.com/cheewei/packagesample",
+    "homepage": "https://github.com/Basce/packagesample",
     "license": "MIT",
     "authors": [
         {
-            "name": "cheewei",
-            "email": "cheewei.yong@noisycrayons.com",
-            "homepage": "http://noisycrayons.com",
+            "name": "Basce",
+            "email": "basce.yong@gmail.com",
+            "homepage": "https://github.com/Basce",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "cheewei\\packagesample\\": "src"
+            "Basce\\packagesample\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "cheewei\\packagesample\\": "tests"
+            "Basce\\packagesample\\": "tests"
         }
     },
     "scripts": {

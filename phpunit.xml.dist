@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="cheewei Test Suite">
+        <testsuite name="Basce Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

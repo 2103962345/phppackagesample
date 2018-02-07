@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```cheewei``` ```cheewei``` ```http://noisycrayons.com``` ```cheewei.yong@noisycrayons.com``` ```cheewei``` ```packagesample``` ```package sample``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
+**Note:** Replace ```Basce``` ```Basce``` ```https://github.com/Basce``` ```basce.yong@gmail.com``` ```Basce``` ```packagesample``` ```simple package``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -30,13 +30,13 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require cheewei/packagesample
+$ composer require Basce/packagesample
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new cheewei\packagesample();
+$skeleton = new Basce\packagesample();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 
@@ -56,28 +56,28 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT
 
 ## Security
 
-If you discover any security related issues, please email cheewei.yong@noisycrayons.com instead of using the issue tracker.
+If you discover any security related issues, please email basce.yong@gmail.com instead of using the issue tracker.
 
 ## Credits
 
-- [cheewei][link-author]
+- [Basce][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/cheewei/packagesample.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Basce/packagesample.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/cheewei/packagesample/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/cheewei/packagesample.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/cheewei/packagesample.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/cheewei/packagesample.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Basce/packagesample/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Basce/packagesample.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Basce/packagesample.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/Basce/packagesample.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/cheewei/packagesample
-[link-travis]: https://travis-ci.org/cheewei/packagesample
-[link-scrutinizer]: https://scrutinizer-ci.com/g/cheewei/packagesample/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/cheewei/packagesample
-[link-downloads]: https://packagist.org/packages/cheewei/packagesample
-[link-author]: https://github.com/cheewei
+[link-packagist]: https://packagist.org/packages/Basce/packagesample
+[link-travis]: https://travis-ci.org/Basce/packagesample
+[link-scrutinizer]: https://scrutinizer-ci.com/g/Basce/packagesample/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Basce/packagesample
+[link-downloads]: https://packagist.org/packages/Basce/packagesample
+[link-author]: https://github.com/Basce
 [link-contributors]: ../../contributors

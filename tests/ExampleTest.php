@@ -1,6 +1,6 @@
 <?php
 
-namespace cheewei\packagesample;
+namespace Basce\packagesample;
 
 class ExampleTest extends \PHPUnit\Framework\TestCase
 {
