@@ -30,13 +30,13 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require Basce/packagesample
+$ composer require Basce/phppackagesample
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new Basce\packagesample();
+$skeleton = new Basce\phppackagesample();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 

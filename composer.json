@@ -1,12 +1,12 @@
 {
-    "name": "Basce/packagesample",
+    "name": "Basce/phppackagesample",
     "type": "library",
     "description": "simple package",
     "keywords": [
         "Basce",
-        "packagesample"
+        "phppackagesample"
     ],
-    "homepage": "https://github.com/Basce/packagesample",
+    "homepage": "https://github.com/Basce/phppackagesample",
     "license": "MIT",
     "authors": [
         {
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Basce\\packagesample\\": "src"
+            "Basce\\phppackagesample\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Basce\\packagesample\\": "tests"
+            "Basce\\phppackagesample\\": "tests"
         }
     },
     "scripts": {
